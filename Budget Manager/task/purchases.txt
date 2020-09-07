@@ -1,0 +1,18 @@
+income~1000.0
+expense~1~Almond 250g~35.43
+expense~1~Milk~3.5
+expense~1~Red Fuji Apple~5.99
+expense~1~Eggs~3.99
+expense~1~FIJI Natural Artesian Water~25.98
+expense~1~Hershey's milk chocolate bars~8.54
+expense~1~Great Value Broccoli Florets~1.0
+expense~1~Keystone Ground Bee~6.28
+expense~2~Gildan LT~8.61
+expense~2~Men's Dual Defense Crew Socks 12 Pairs~13.0
+expense~2~Wrangler Men's Stretch Cargo Pant~19.97
+expense~3~LEGO DUPLO Town Farm Animals~10.1
+expense~3~Cinema~8.73
+expense~3~Skate rental~30.0
+expense~4~Sensodyne Pronamel Toothpaste~19.74
+expense~4~Chick-fil-A $10 Gift Card~10.0
+expense~4~Debt~3.5
