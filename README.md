@@ -1,7 +1,7 @@
 # Budget_Manager
 
 ## About
-Class project as part of educational process at Hyperskill Academy.
+Class project as a part of educational process at Hyperskill Academy.
 The program that helps to control expenses and check all inflows and outflows whenever one needs.
 
 ## What does the program do?
